@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mobiledoc-kit": "^0.10.15",
+    "module-deps": "^4.1.1"
+  }
+}
